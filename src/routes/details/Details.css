@@ -1,0 +1,9 @@
+.button {
+    border: 2px solid transparent;
+    border-image: linear-gradient(180deg, #EE5626 50.52%, #35109F 89.58%) 1;
+    padding: 8px 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 8px;
+}
